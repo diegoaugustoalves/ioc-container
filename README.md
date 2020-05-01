@@ -1,2 +1,2 @@
 # ioc-container
-Academic example of a IoC container
+Academic example of an IoC container
