@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectIt", "ReflectIt\ReflectIt.csproj", "{F65CA398-9F38-4050-B03C-67B59255BE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectIt.Test", "ReflectIt.Test\ReflectIt.Test.csproj", "{A8D32933-0AAE-44E7-8CFC-E828F389E764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65CA398-9F38-4050-B03C-67B59255BE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65CA398-9F38-4050-B03C-67B59255BE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65CA398-9F38-4050-B03C-67B59255BE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65CA398-9F38-4050-B03C-67B59255BE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D32933-0AAE-44E7-8CFC-E828F389E764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D32933-0AAE-44E7-8CFC-E828F389E764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D32933-0AAE-44E7-8CFC-E828F389E764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D32933-0AAE-44E7-8CFC-E828F389E764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
